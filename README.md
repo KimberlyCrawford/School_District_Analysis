@@ -17,6 +17,7 @@ A chief data scientist for a city school district is responsible for the followi
 - data was cleaned for missing data; results showed no missing data
 - data types were identified and checked to prepare for calculations
 - data was cleaned by removing professional prefixes or suffixes from student names
+- DataFrames (school_data_df and student_data_df) were merged
 
 
 ## Summary 
