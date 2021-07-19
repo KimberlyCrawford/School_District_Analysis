@@ -11,27 +11,24 @@ A chief data scientist for a city school district is responsible for the followi
 - Data Sources: schools_complete.csv and students_complete.csv
 - Software: Conda 4.10.3, Python 3.7.6, Jupyter Notebook 6.3.0, Pandas, and NumPy
 
-## Data Processing
-- dependencies were added to Python script, i.e. import pandas as pd, import os
-- data was loaded, read and stored in a dataframe
-- data was cleaned for missing data; results showed no missing data
-- data types were identified and checked to prepare for calculations
-- data was cleaned by removing professional prefixes or suffixes from student names
-- DataFrames (school_data_df and student_data_df) were merged
-
-
 ## Summary 
 The list of deliverables for the analysis of the school district: 
 
 - A high-level snapshot of the district's key metrics, presented in a table format
 - An overview of the key metrics for each school, presented in a table format
 - Tables presenting each of the following metrics:
-** Top 5 and bottom 5 performing schools, based on the overall passing rate
-** The average math score received by students in each grade level at each school
-** The average reading score received by students in each grade level at each school
-** School performance based on the budget per student
-** School performance based on the school size 
-** School performance based on the type of school
+
+### Top 5 and bottom 5 performing schools, based on the overall passing rate
+
+### The average math score received by students in each grade level at each school
+
+### The average reading score received by students in each grade level at each school
+
+### School performance based on the budget per student
+
+### School performance based on the school size 
+
+### School performance based on the type of school
 -
     
 ## Challenge Overview 
